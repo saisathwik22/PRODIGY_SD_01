@@ -1,0 +1,233 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$SelectAll" count="1" />
+      <entry action="$Undo" count="1" />
+      <entry action="Android.RunAndroidAvdManager" count="2" />
+      <entry action="Android.SyncProject" count="2" />
+      <entry action="CodeCompletion" count="8" />
+      <entry action="Debugger.EditFrameSource" count="1" />
+      <entry action="EditorBackSpace" count="595" />
+      <entry action="EditorChooseLookupItem" count="42" />
+      <entry action="EditorCopy" count="8" />
+      <entry action="EditorCut" count="2" />
+      <entry action="EditorDelete" count="2" />
+      <entry action="EditorDown" count="154" />
+      <entry action="EditorEnter" count="39" />
+      <entry action="EditorLeft" count="51" />
+      <entry action="EditorPaste" count="5" />
+      <entry action="EditorRight" count="384" />
+      <entry action="EditorRightWithSelection" count="1" />
+      <entry action="EditorToggleInsertState" count="2" />
+      <entry action="EditorUp" count="62" />
+      <entry action="HideAllWindows" count="2" />
+      <entry action="NewProject" count="10" />
+      <entry action="OpenFile" count="16" />
+      <entry action="Run" count="1" />
+      <entry action="SearchEverywhere" count="3" />
+      <entry action="ShowSettings" count="1" />
+      <entry action="template.create.ActivityEmpty Activity" count="2" />
+    </counts>
+  </component>
+  <component name="FUSApplicationUsageTrigger">
+    <session id="655482535">
+      <usages-collector id="statistics.lifecycle.app">
+        <counts>
+          <entry key="ide.close" value="9" />
+          <entry key="ide.error" value="2" />
+          <entry key="ide.freeze.11" value="1" />
+          <entry key="ide.freeze.13" value="1" />
+          <entry key="ide.freeze.17" value="1" />
+          <entry key="ide.freeze.21" value="1" />
+          <entry key="ide.freeze.23" value="1" />
+          <entry key="ide.freeze.24" value="1" />
+          <entry key="ide.freeze.32" value="1" />
+          <entry key="ide.freeze.7" value="1" />
+          <entry key="ide.freeze.8" value="3" />
+          <entry key="ide.freeze.9" value="1" />
+          <entry key="ide.start" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.ide.self.update">
+        <counts>
+          <entry key="dialog.shown" value="1" />
+          <entry key="notification.clicked" value="1" />
+          <entry key="notification.shown" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.ui.tips">
+        <counts>
+          <entry key="next.tip" value="18" />
+          <entry key="shown.automatically" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FeatureUsageStatistics" first-run="1552538422404" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="refactoring.moveTopLevel" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.pushDown" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineMacro" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.changeSignature" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickFix" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.altInsert" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineTypedef" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.pullUp" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.class" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.overrideimplement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.parameterInfo" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="1552538149116" last-used="0" shown-count="4" />
+    <feature id="editing.completion.basic" count="44" last-shown="0" last-used="1552547578292" shown-count="0" />
+    <feature id="refactoring.inlineConst" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="generate.definitions" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.extractMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceDefine" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="1" last-shown="0" last-used="1552544366714" shown-count="0" />
+    <feature id="refactoring.extractSuperclass" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineMethod" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.extractSubclass" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.smarttype.general" count="0" last-shown="1552547568533" last-used="0" shown-count="36" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.liveTemplates" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="0" last-shown="1552538149116" last-used="0" shown-count="4" />
+    <feature id="refactoring.introduceParameter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.inlineLocalVar" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.appCodeIntroduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.moveMembers" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="471" />
+      <option name="invocations" value="38" />
+      <option name="startDate" value="1552501800000" />
+      <option name="dayCount" value="1" />
+      <option name="lastDate" value="1552501800000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="0" />
+      <option name="startDate" value="0" />
+      <option name="dayCount" value="0" />
+      <option name="lastDate" value="0" />
+    </fixesStatsTag>
+  </component>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="File -&gt; New -&gt; New Project..." count="10" />
+      <entry path="File -&gt; Open..." count="16" />
+      <entry path="File -&gt; Settings..." count="1" />
+      <entry path="File -&gt; Sync Project with Gradle Files" count="2" />
+    </counts>
+  </component>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Backspace" count="595" />
+      <entry shortcut="Ctrl+A" count="1" />
+      <entry shortcut="Ctrl+C" count="3" />
+      <entry shortcut="Ctrl+Insert" count="5" />
+      <entry shortcut="Ctrl+Space" count="8" />
+      <entry shortcut="Ctrl+V" count="5" />
+      <entry shortcut="Ctrl+X" count="2" />
+      <entry shortcut="Ctrl+Z" count="1" />
+      <entry shortcut="Delete" count="2" />
+      <entry shortcut="Down" count="155" />
+      <entry shortcut="Enter" count="82" />
+      <entry shortcut="Escape" count="1" />
+      <entry shortcut="F4" count="1" />
+      <entry shortcut="Insert" count="2" />
+      <entry shortcut="Left" count="51" />
+      <entry shortcut="Right" count="384" />
+      <entry shortcut="Shift+Right" count="1" />
+      <entry shortcut="Shift+Shift" count="3" />
+      <entry shortcut="Up" count="64" />
+    </counts>
+  </component>
+  <component name="StatisticsApplicationUsages">
+    <group name="module type">
+      <project id="My Application1" values="JAVA_MODULE" collectionTime="1552544544629" />
+      <project id="MyApplication2" values="JAVA_MODULE" collectionTime="1552569511284" />
+      <project id="MyApplication12" values="JAVA_MODULE" collectionTime="1552545063200" />
+      <project id="findmylocation" values="JAVA_MODULE" collectionTime="1552547091276" />
+      <project id="urike app" values="JAVA_MODULE" collectionTime="1552541014653" />
+    </group>
+    <group name="file-type">
+      <project id="My Application1" values="JAVA,IDEA_MODULE,Properties,PLAIN_TEXT,UNKNOWN,XML,ARCHIVE,Groovy,ProGuard File,Image" collectionTime="1552544544629" />
+      <project id="MyApplication2" values="Properties,IDEA_MODULE,ProGuard File,Image,XML,ARCHIVE,JAVA,Groovy,PLAIN_TEXT" collectionTime="1552569511284" />
+      <project id="MyApplication12" values="Groovy,JAVA,XML,Properties,IDEA_MODULE,ProGuard File,Image,PLAIN_TEXT,ARCHIVE" collectionTime="1552545063200" />
+      <project id="findmylocation" values="Image,Properties,IDEA_MODULE,XML,JAVA,ProGuard File,PLAIN_TEXT,ARCHIVE,Groovy" collectionTime="1552547091276" />
+      <project id="urike app" values="ARCHIVE,JAVA,ProGuard File,Properties,Groovy,Image,XML,IDEA_MODULE,PLAIN_TEXT" collectionTime="1552541014653" />
+    </group>
+    <group name="kotlin.formatter">
+      <project id="My Application1" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1552544544639" />
+      <project id="MyApplication2" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1552569511674" />
+      <project id="MyApplication12" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1552545063284" />
+      <project id="findmylocation" values="kotlin.formatter.kind.idea_default,kotlin.formatter.defaults.null" collectionTime="1552547091291" />
+      <project id="urike app" values="kotlin.formatter.defaults.null,kotlin.formatter.kind.idea_default" collectionTime="1552541015176" />
+    </group>
+    <group name="module-language-level">
+      <project id="My Application1" values="JDK_1_7" collectionTime="1552544544629" />
+      <project id="MyApplication2" values="JDK_1_7" collectionTime="1552569511358" />
+      <project id="MyApplication12" values="JDK_1_7" collectionTime="1552545063284" />
+      <project id="findmylocation" values="JDK_1_7" collectionTime="1552547091290" />
+      <project id="urike app" values="JDK_1_7" collectionTime="1552541014665" />
+    </group>
+    <group name="vcs-stats">
+      <project id="My Application1" values="unversioned.files.count.0,active.changelists.count.1,vcs.roots.count.0,ignored.files.count.0,has.default.vcs.root.mapping.enabled" collectionTime="1552544544557" />
+      <project id="MyApplication2" values="ignored.files.count.0,active.changelists.count.1,unversioned.files.count.0,has.default.vcs.root.mapping.enabled,vcs.roots.count.0" collectionTime="1552569511156" />
+      <project id="MyApplication12" values="active.changelists.count.1,has.default.vcs.root.mapping.enabled,ignored.files.count.0,vcs.roots.count.0,unversioned.files.count.0" collectionTime="1552545063150" />
+      <project id="findmylocation" values="ignored.files.count.0,vcs.roots.count.0,unversioned.files.count.0,has.default.vcs.root.mapping.enabled,active.changelists.count.1" collectionTime="1552547091216" />
+      <project id="urike app" values="active.changelists.count.1,ignored.files.count.0,vcs.roots.count.0,has.default.vcs.root.mapping.enabled,unversioned.files.count.0" collectionTime="1552541014468" />
+    </group>
+    <group name="frameworks">
+      <project id="My Application1" values="android-gradle" collectionTime="1552544544629" />
+      <project id="MyApplication2" values="java-gradle,android,android-gradle" collectionTime="1552569511284" />
+      <project id="MyApplication12" values="java-gradle,android-gradle,android" collectionTime="1552545063200" />
+      <project id="findmylocation" values="android-gradle,android,java-gradle" collectionTime="1552547091276" />
+      <project id="urike app" values="android-gradle" collectionTime="1552541014653" />
+    </group>
+    <group name="vcs-options">
+      <project id="My Application1" values="perform.rollback.in.background.disabled,commit.before.check.code.cleanup.disabled,perform.edit.in.background.enabled,commit.clear.initial.comment.disabled,commit.use.right.margin.enabled,changelist.make.new.active.disabled,commit.before.check.todo.enabled,changelist.preselect.existing.disabled,show.changes.preview.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.rearrange.disabled,perform.add_remove.in.background.enabled,commit.before.check.code.smell.enabled,perform.commit.in.background.enabled,commit.before.optimize.imports.disabled,include.text.into.shelf.enabled,offer.move.partially.committed.disabled,offer.move.failed.committed.do_nothing_silently,check.conflicts.in.background.disabled,perform.update.in.background.enabled,commit.before.reformat.project.disabled,commit.before.check.non.empty.comment.disabled,perform.checkout.in.background.enabled,commit.show.unversioned.enabled" collectionTime="1552544544556" />
+      <project id="MyApplication2" values="changelist.make.new.active.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.code.smell.enabled,commit.before.check.code.cleanup.disabled,include.text.into.shelf.enabled,perform.add_remove.in.background.enabled,commit.show.unversioned.enabled,perform.commit.in.background.enabled,perform.edit.in.background.enabled,commit.clear.initial.comment.disabled,commit.before.check.todo.enabled,commit.before.check.non.empty.comment.disabled,perform.update.in.background.enabled,commit.before.rearrange.disabled,commit.use.right.margin.enabled,show.changes.preview.disabled,offer.remove.empty.changelist.show_confirmation,perform.checkout.in.background.enabled,commit.before.reformat.project.disabled,commit.before.optimize.imports.disabled,perform.rollback.in.background.disabled,offer.move.partially.committed.disabled,changelist.preselect.existing.disabled,check.conflicts.in.background.disabled" collectionTime="1552569511140" />
+      <project id="MyApplication12" values="commit.show.unversioned.enabled,commit.before.optimize.imports.disabled,commit.before.check.code.cleanup.disabled,perform.edit.in.background.enabled,perform.rollback.in.background.disabled,changelist.make.new.active.disabled,commit.before.check.code.smell.enabled,offer.remove.empty.changelist.show_confirmation,check.conflicts.in.background.disabled,commit.clear.initial.comment.disabled,offer.move.failed.committed.do_nothing_silently,include.text.into.shelf.enabled,perform.update.in.background.enabled,changelist.preselect.existing.disabled,commit.use.right.margin.enabled,commit.before.reformat.project.disabled,perform.checkout.in.background.enabled,show.changes.preview.disabled,commit.before.rearrange.disabled,offer.move.partially.committed.disabled,perform.add_remove.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.before.check.todo.enabled,perform.commit.in.background.enabled" collectionTime="1552545063150" />
+      <project id="findmylocation" values="commit.before.rearrange.disabled,check.conflicts.in.background.disabled,changelist.make.new.active.disabled,perform.update.in.background.enabled,offer.remove.empty.changelist.show_confirmation,changelist.preselect.existing.disabled,commit.before.check.code.smell.enabled,perform.checkout.in.background.enabled,commit.before.optimize.imports.disabled,commit.before.check.code.cleanup.disabled,perform.rollback.in.background.disabled,perform.commit.in.background.enabled,show.changes.preview.disabled,commit.show.unversioned.enabled,perform.edit.in.background.enabled,commit.clear.initial.comment.disabled,include.text.into.shelf.enabled,offer.move.partially.committed.disabled,offer.move.failed.committed.do_nothing_silently,perform.add_remove.in.background.enabled,commit.use.right.margin.enabled,commit.before.check.todo.enabled,commit.before.reformat.project.disabled,commit.before.check.non.empty.comment.disabled" collectionTime="1552547091216" />
+      <project id="urike app" values="check.conflicts.in.background.disabled,perform.rollback.in.background.disabled,changelist.preselect.existing.disabled,commit.before.rearrange.disabled,perform.checkout.in.background.enabled,commit.use.right.margin.enabled,offer.remove.empty.changelist.show_confirmation,offer.move.failed.committed.do_nothing_silently,commit.clear.initial.comment.disabled,commit.before.optimize.imports.disabled,offer.move.partially.committed.disabled,changelist.make.new.active.disabled,commit.before.check.code.smell.enabled,commit.before.check.non.empty.comment.disabled,commit.before.reformat.project.disabled,commit.before.check.code.cleanup.disabled,commit.show.unversioned.enabled,perform.add_remove.in.background.enabled,perform.update.in.background.enabled,perform.edit.in.background.enabled,commit.before.check.todo.enabled,include.text.into.shelf.enabled,perform.commit.in.background.enabled,show.changes.preview.disabled" collectionTime="1552541014465" />
+    </group>
+  </component>
+  <component name="ToolWindowCollector">
+    <counts>
+      <entry toolWindow="Assistant by Activation" count="2" />
+      <entry toolWindow="Build Variants by Activation" count="1" />
+      <entry toolWindow="Build by Activation" count="14" />
+      <entry toolWindow="Preview by Activation" count="11" />
+      <entry toolWindow="Project by Activation" count="44" />
+    </counts>
+  </component>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Android.RunAndroidAvdManager@NavBarToolbar" count="2" />
+      <entry action="Run@NavBarToolbar" count="1" />
+      <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$HideAction@TOOL_WINDOW_TOOLBAR" count="2" />
+      <entry action="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction@ToolwindowTitle" count="4" />
+    </counts>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Android Profiler].hidden" count="11" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="1" />
+      <entry feature="ide.settings.Gradle" count="1" />
+      <entry feature="ideaapp.started" count="10" />
+      <entry feature="tips.of.the.day.next" count="18" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="2" />
+      <entry feature="welcome.screen.null" count="1" />
+    </counts>
+  </component>
+</application>

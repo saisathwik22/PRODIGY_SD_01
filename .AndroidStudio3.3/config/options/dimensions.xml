@@ -1,0 +1,12 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="691" y="338" />
+    <location key="SettingsEditor.0.0.1366.768" x="177" y="0" />
+    <location key="#HTTP_Proxy.0.0.1366.768" x="469" y="94" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="375" y="104" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="378" y="186" />
+    <location key="deploy.picker.dialog.0.0.1366.768" x="363" y="117" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="399" y="165" />
+    <size key="javadoc.popup.new.0.0.1366.768" width="300" height="261" />
+  </component>
+</application>

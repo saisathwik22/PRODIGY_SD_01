@@ -1,0 +1,6 @@
+{"session":"5ba40aab0b47","build":"182.5107.16.33.5199772","bucket":"-1","time":1552472597618,"group":{"id":"ui.dialogs","version":"2"},"event":{"count":1,"data":{"type":"show"},"id":"com.intellij.openapi.progress.util.ProgressDialog$MyDialogWrapper"}}
+{"session":"5ba40aab0b47","build":"182.5107.16.33.5199772","bucket":"-1","time":1552472599292,"group":{"id":"ui.dialogs","version":"2"},"event":{"count":1,"data":{"code":1,"type":"close"},"id":"com.intellij.openapi.progress.util.ProgressDialog$MyDialogWrapper"}}
+{"session":"5ba40aab0b47","build":"182.5107.16.33.5199772","bucket":"-1","time":1552472599887,"group":{"id":"lifecycle","version":"2"},"event":{"count":1,"data":{},"id":"ideaapp.started"}}
+{"session":"5ba40aab0b47","build":"182.5107.16.33.5199772","bucket":"-1","time":1552472599887,"group":{"id":"lifecycle","version":"2"},"event":{"count":1,"data":{},"id":"app.started"}}
+{"session":"5ba40aab0b47","build":"182.5107.16.33.5199772","bucket":"-1","time":1552472999890,"group":{"id":"lifecycle","version":"2"},"event":{"count":1,"data":{"restart":false},"id":"app.closed"}}
+{"session":"5ba40aab0b47","build":"182.5107.16.33.5199772","bucket":"-1","time":1552473000385,"group":{"id":"lifecycle","version":"2"},"event":{"count":1,"data":{},"id":"ideaapp.closed"}}
